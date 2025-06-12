@@ -1,0 +1,14 @@
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\bin\Debug\NewClgAttdMgnmt.exe.config
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\bin\Debug\NewClgAttdMgnmt.exe
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\bin\Debug\NewClgAttdMgnmt.pdb
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.csprojResolveAssemblyReference.cache
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.FrmHome.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.Properties.Resources.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.StdAttd.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.csproj.GenerateResource.Cache
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.exe
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.pdb
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\prjStudInfoSys.frmStudPerInfo.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.addClass.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.Clg_Report.resources
+D:\taher\college\C#\NewClgAttdMgnmt\NewClgAttdMgnmt\NewClgAttdMgnmt\obj\Debug\NewClgAttdMgnmt.frmLogin.resources
